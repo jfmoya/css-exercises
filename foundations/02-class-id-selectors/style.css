@@ -1,0 +1,22 @@
+/* style.css */
+
+
+
+.odd{
+    background-color: rgb(247, 154, 154);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#i2{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#i3,#i4{
+    font-size: 24px;
+}
+
+#i4{
+    background-color: rgb(100, 255, 100);
+    font-weight: bold;
+}
